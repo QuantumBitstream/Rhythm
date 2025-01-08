@@ -44,3 +44,4 @@ build/
 /.idea
 !/src/main/resources/application-dev.yaml
 /src/main/java/com/test/log/
+/src/main/resources/application-test-secrets.yaml
