@@ -25,7 +25,7 @@
 
 |     |   后端源码  |   前端源码  |
 |---  |--- | --- |
-|  github   |  https://github.com/testingforforrwhat/Rhythm.git   |  https://github.com/testingforforrwhat/rhythm-vue.git   |
+|  github   |  https://github.com/quantumbitstream/Rhythm.git   |  https://github.com/quantumbitstream/rhythm-vue.git   |
 
 
 ## **2. 系统架构设计**
